@@ -10,9 +10,9 @@ const jakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'Rafael Adnan · Software Engineer',
+  title: 'Sultan Syah · Software Engineer',
   description:
-    'Portofolio pribadi Rafael Adnan — software engineer yang antusias memecahkan masalah melalui teknologi. Lihat proyek, pengalaman, dan cara menghubungi saya.',
+    'Portofolio pribadi Sultan Syah — software engineer yang antusias memecahkan masalah melalui teknologi. Lihat proyek, pengalaman, dan cara menghubungi saya.',
   generator: 'v0.app',
   icons: {
     icon: [
